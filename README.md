@@ -24,7 +24,7 @@ A visually engaging web page created using **React.js** and **GSAP** (GreenSock 
 
 
 
-Video Of the webpage ::
+Video Of the webpage  in the src/assests/gta-video.mp4
 <video src="./src/assets/gta-video.mp4" width="100%" controls></video>
 
 
